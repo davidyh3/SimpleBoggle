@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleBoggle</string>
+    <string name="main_title">Enter a word then hit submit.</string>
+
+    <string name="score">Score:</string>
+    <string name="new_game">New Game</string>
+
+    <string name="clear">Clear</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+
+    <string name="hint_1">Invalid choice! You may only select connected letters</string>
+
+    <string name="hint_2">All words must utilize a minimum of two vowels.</string>
+    <string name="hint_3">Words must be at least 4 chars long</string>
+
+</resources>

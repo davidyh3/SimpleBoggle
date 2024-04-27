@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="color_bg">#EDEDED</color>
+    <color name="color_line">#DDDDDD</color>
+
+    <color name="color_333">#333333</color>
+    <color name="color_666">#666666</color>
+    <color name="color_999">#999999</color>
+
+    <color name="color_blue">#238EFA</color>
+
+    <color name="conversation_important_highlight">#F9AB00</color>
+
+</resources>
